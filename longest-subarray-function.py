@@ -27,6 +27,8 @@ def Longest_subarray(array):
     return length
 
 
+# In this exercise I am using a different appraoch to entering the array of numbers.
+# this approach is not optimal as it may present runtime errors.
 
 n = input("Please enter your array of 0s and 1s: ")
 array = []
